@@ -3,8 +3,8 @@
 | Date | Version | Release | Additions/Changes |
 |------|-----------|--------|-------------------|
 | 05.08.26 | v3.0  | Pre-Alpha | Renamed to BetterVortex. |
-|15.08.26 | v3.1  | Pre-Alpha | Upcoming release. |
-| 01.09.26 | v3.2  | Pre-Alpha | Upcoming release. |
+|24.09.26 | v3.1  | Pre-Alpha | Upcoming release. |
+| 27.09.26 | v3.2  | Pre-Alpha | Upcoming release. |
 | 01.10.26 | v3.3  | Pre-Alpha | Upcoming release. |
 | 14.10.26 | v3.4  | Pre-Alpha | Upcoming release. |
 | 01.11.26 | v3.5  | Early Alpha | Upcoming release. |
@@ -99,29 +99,29 @@ This update added nothing new, just made a new file structure and renamed the ex
 - New Logo
 
 # Version 3.1
-#### ??.??.2026
+#### 24.09.2026
 #### 3.1 *The JavaScript Update Part 7?*
 Description
 
 **Changelogs:**
 
 # Version 3.2
-#### ??.??.2026
-#### 3.2 *The JavaScript Update Part 8?*
+#### 27.09.2026
+#### 3.2 *?*
 Description
 
 **Changelogs:**
 
 # Version 3.3
-#### ??.??.2026
-#### 3.3 *The JavaScript Update Part 9?*
+#### 01.10.2026
+#### 3.3 *?*
 Description
 
 **Changelogs:**
 
 # Version 3.4
 #### ??.??.2026
-#### 3.4 *The JavaScript Update Part 10?*
+#### 3.4 *?*
 #### Scheduled Discontinuation of Pre-Alpha Development.
 Description
 
@@ -129,7 +129,7 @@ Description
 
 # Version 3.5
 #### ??.??.2026
-#### 3.5 *The JavaScript Update Part 11?*
+#### 3.5 *?*
 #### Scheduled beginning of Early-Alpha Development.
 Description
 
@@ -137,7 +137,7 @@ Description
 
 # Version 3.6
 #### ??.??.????
-#### 3.6 *The JavaScript Update Part 12?*
+#### 3.6 *?*
 Description
 
 **Changelogs:**

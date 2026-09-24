@@ -31,10 +31,6 @@ Please note that this roadmap is subject to change. Features may be added, remov
 
 ## Q&A
 
-<div align="center">
-<p>more questions <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.md">here.</a></p>
-</div>
-
 | Topic | Question | Answer
 | :--- | :--- | :--- |
 General | **How can I submit feedback or report a bug? and can I contribute or develop for BetterVortex?** | Feel free to **reach out** to me via *GitHub.* for submitting feedbacks or reporting a bug, however, I currently do **not accept** direct contributions. Instead, the only way to contribute is by giving *feedback* and *suggestions.*
@@ -44,25 +40,25 @@ Compatibility | **Can I use an older version of BetterVortex? will you ever fix 
 Mission | **Whats the end goal for BetterVortex? and can I donate money to BetterVortex?** | *BetterVortex's* goal is to give Vortex user's more control, customization, and make the vortex platform a nicer place, and **No you can't donate money to BetterVortex.** Support me instead by giving me feedback on your experience with using BetterVortex.
 Other | **My question isn't listed here?** |  feel free to ask me any questions.
 
-# Accessibility Statement
+## Accessibility Statement
 
-Welcome! We are committed to ensuring our project is accessible, inclusive, and usable by everyone, regardless of technology or ability. We strive to follow the [Web Content Accessibility Guidelines (WCAG) 2.2](https://w3.org) standards.
+I am committed to ensuring my project is accessible, inclusive, and usable by everyone, regardless of technology or ability. I strive to follow the [Web Content Accessibility Guidelines (WCAG) 2.2](https://w3.org) standards.
 
 ## Key Features & Conformance
-Our project actively wants to add the following accessibility practices:
+My project actively wants to add the following accessibility practices:
 - **Keyboard Navigation:** All interactive elements are fully operable using a keyboard, with clear, visible focus states.
 - **Screen Reader Support:** Semantic HTML and proper ARIA attributes are used to provide meaningful context to assistive technologies.
 - **Visual Contrast:** Interface colors meet the minimum contrast ratios (e.g., 4.5:1 for normal text) to accommodate visual impairments.
 - **Descriptive Media:** Images include descriptive alternative (ALT) text, and videos include captions or transcripts where applicable.
 
 ## Reporting Barriers & Feedback
-If you encounter any accessibility barriers, missing alt text, or keyboard traps, please let us know.
-Please open an issue in our repository and apply the `accessibility` or `a11y` label. To help us resolve the issue quickly, please include:
+If you encounter any accessibility barriers, missing alt text, or keyboard traps, please let me know.
+Please open an issue in our repository and apply the `accessibility` or `a11y` label. To help you resolve the issue quickly, please include:
 1. What you were trying to do and what went wrong.
 2. The exact page or URL where the barrier occurred.
 3. Your device, operating system, and assistive technology (e.g., screen reader version).
 
-# Localization
+## Localization
 
 To translate the Vortex Platform into different languages, I recommend you use the 'translate' feature built-in the Microsoft Edge or Chrome Web Browser.
 
@@ -78,7 +74,7 @@ If you have found a bug in BetterVortex, please help us fix it quickly by [openi
 * Clearly outline the steps required to reproduce the issue.
 
 ## Suggesting Enhancements
-If you have an idea or feature request, please [submit a Feature Request](https://github.com/Klingri/BetterVortex/issues) and tell us how this enhancement would benefit BetterVortex.
+If you have an idea or feature request, please [submit a Feature Request](https://github.com/Klingri/BetterVortex/issues) and tell me how this enhancement would benefit BetterVortex.
 
 ## How You Can Support the Project
 If you love using BetterVortex, There are several ways you can show your support and help the BetterVortex community grow:
@@ -87,3 +83,21 @@ If you love using BetterVortex, There are several ways you can show your support
 * **Add a Backlink:** If you are using this in your own project, link back to this repository in your `README.md`. 
 
 Thank you for your support!
+
+### Known Issues & Stability (so far)
+
+<ul>
+    <li><strong>Performance:</strong> Experimental updates may cause performance instability and looses on less capable hardware.</li>
+    <li><strong>UI Issues & UI Glitches:</strong> Some elements may display incorrectly.</li>
+    <li><strong>No native Auto-Updater:</strong> Manual updating, the same way you first downloaded BetterVortex.</li>
+    <li><strong>Compatibility:</strong> BetterVortex might not work with Firefox, other vortex extensions or older versions of BetterVortex.</li>
+    <li><strong>Themes:</strong> BetterVortex looks best in dark mode because it was built for it, and I cannot guarantee the look of light mode or other themes.</li>
+  </ul>
+
+<p><i>Submit bugs via <a href="https://github.com/Klingri/BetterVortex/issues">GitHub Issues</a></i></p>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Klingri/BetterVortex)
+
+*Need more help? Check out BetterVortex's full [.readme](https://github.com/Klingri/BetterVortex) or open an issue in the [Issue Tracker](https://github.com/Klingri/BetterVortex/issues/new).*
+
+#### Rename to misc.md

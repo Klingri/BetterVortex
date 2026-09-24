@@ -1,5 +1,5 @@
 Terms of Service
-Last updated August 5th, 2026
+Last updated September 24th, 2026
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -24,7 +24,7 @@ Terms and Conditions (also referred as "Terms") mean these Terms and Conditions 
 
 Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
-Website refers to BetterVortex, accessible from https://github.com/Klingri/BetterVortexWebsite
+Website refers to BetterVortex, accessible from https://github.com/Klingri/BetterVortex
 
 You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 

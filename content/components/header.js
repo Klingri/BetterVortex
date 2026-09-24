@@ -18,8 +18,8 @@ createNavButton('BTVortex GitHub', 'https://github.com/Klingri/BetterVortex');
 createNavButton('BTVortex Update', 'https://github.com/Klingri/BetterVortex/releases');
 createNavButton('Friends', 'https://playvortex.io/social?user=&tab=friends');
 createNavButton('Notifications', 'https://playvortex.io');
-createNavButton('Halos Profile', 'https://playvortex.io/users/1/profile');
-createNavButton('Play Vortexia', 'https://playvortex.io/games/8/play');
+/*createNavButton('Halos Profile', 'https://playvortex.io/users/1/profile');*/ // Disabled in September 24th
+/*createNavButton('Play Vortexia', 'https://playvortex.io/games/8/play');*/ // Disabled in September 24th
 
 const alerts = document.querySelector('.navbar-actions', '.navbar-pill-btn', 'vpro-nav-btn', 'btn-secondary');
 alerts.addEventListener('click', function () {
@@ -211,7 +211,7 @@ settingbtn.textContent = "Click to Submit";
 settingbtn.innerHTML = "<strong>Loading...</strong>"; */
 
 settingthebutton.addEventListener('click', () => {
-  isOn = !isOn; // Flip state
-  settingthebutton.textContent = isOn ? 'On' : 'Off';
-  alert("Button was clicked!");
+    isOn = !isOn; // Flip state
+    settingthebutton.textContent = isOn ? 'On' : 'Off';
+    alert("Button was clicked!");
 });

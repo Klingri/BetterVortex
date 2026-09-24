@@ -33,7 +33,7 @@
 
 ## Installation
 
-<a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/INSTALLATION.MD">full Installation guide.</a>
+<a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.MD">full Installation guide.</a>
 
 ### Step-by-Step:
 1. **Download:** Go to the [Releases](https://github.com/Klingri/BetterVortex/releases) page and download the latest `Source code (zip)`.
@@ -70,7 +70,7 @@
 
 ## Current (notable) Features
 
-<p>The first 6 features on the table are fully made and contributed by <a href="https://github.com/Klingri">@Klingri</a>, the others by someone else. The most important features are listed below:</p>
+<p>All the features on the table are fully made and contributed by <a href="https://github.com/Klingri">@Klingri</a>, The most important features are listed below:</p>
 
 | Feature | Description | Contributor |
 | :--- | :--- | :--- |
@@ -80,7 +80,7 @@
 | **Hover Animations** | Instant satisfaction. |
 | **Custom BetterVortex Settings** | Customization. |
 | **Custom Friends button on navbar** | Easy shortcut. |
-| **Custom Theme Manager** | Enables theme customization. | [@Myroshlaug](https://github.com/myroshlaug) |
+| **Integrated Settings Theme Manager** | Theme Manager in the settings. |
 
 <div align="center">
 <p>Full Roadmap & list of features <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.md">here</a>, recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
@@ -88,7 +88,7 @@
 
 ## Known Issues & Stability (so far)
 <div align="center">
-<p>View the list of Issues (so far) <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/ISSUES.md">here.</a></p>
+<p>View the list of Issues (so far) <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.md">here.</a></p>
 </div>
 
 <ul>
@@ -131,15 +131,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
     <p>Thank you for all the support! ♥️</p>
 </div>
 
-<div align="center">Special Thanks to our former contributors:<br>
-  <a href="https://github.com/myroshlaug">@Myroshlaug,</a>
-  <a href="https://github.com/enkubik">@enkubik,</a>
-  <a href="https://github.com/inuk84">@inuk84,</a>
-  <a href="https://github.com/codep1ltio">@codep1ltio,</a>
-  <a href="https://github.com/KodiDaBear">@KodiDaBear,</a>
-  <a href="https://github.com/HaydenGitHub-2">@Hayden,</a>
-  <a href="https://github.com/Isfadev">@Isfadev,</a>
-  <a href="https://github.com/Slimeking463">@Slimeking.</a>
+<div align="center">The Developer of BetterVortex:<br>
+  <a href="https://github.com/Klingri">@Klingri</a>
   </div>
 
   

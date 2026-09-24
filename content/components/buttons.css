@@ -4,8 +4,8 @@
 .profile-actions button,
 .tag,
 .user-card-actions button,
-.site-footer-links a,
-.site-footer-links a:hover {
+.footer-links a,
+.footer-links a:hover {
     border-radius: 8px !important;
     padding: 8px 15px !important;
     transition: all 0.3s ease;
@@ -102,7 +102,7 @@
 #rotate-toggle:hover,
 .btn-play:hover,
 #save-btn:hover,
-.site-footer-icon-btn:hover,
+.footer-icon-btn:hover,
 .btn-join:hover,
 .vpro-nav-btn:hover {
     background: #2e4bcc !important;
@@ -138,7 +138,7 @@
 }
 
 /*footer*/
-.site-footer-links a:hover:hover {
+.footer-links a:hover:hover {
     background: rgba(239, 68, 68, 0.85) !important;
     transform: translateY(-8px) scale(1.03);
     box-shadow: 0px 20px 35px rgba(239, 68, 68, 0.35);
