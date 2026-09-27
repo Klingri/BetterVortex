@@ -33,7 +33,7 @@
 
 ## Installation
 
-<a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.MD">full Installation guide.</a>
+<a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.MD">full Installation guide.</a>
 
 ### Step-by-Step:
 1. **Download:** Go to the [Releases](https://github.com/Klingri/BetterVortex/releases) page and download the latest `Source code (zip)`.
@@ -83,12 +83,12 @@
 | **Integrated Settings Theme Manager** | Theme Manager in the settings. |
 
 <div align="center">
-<p>Full Roadmap & list of features <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.md">here</a>, recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
+<p>Full Roadmap & list of features <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.md">here</a>, recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
 </div>
 
 ## Known Issues & Stability (so far)
 <div align="center">
-<p>View the list of Issues (so far) <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.md">here.</a></p>
+<p>View the list of Issues (so far) <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.md">here.</a></p>
 </div>
 
 <ul>
@@ -106,7 +106,7 @@
 ## Q&A
 
 <div align="center">
-<p>more questions <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/FEATURES.md">here.</a></p>
+<p>more questions <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.md">here.</a></p>
 </div>
 
 | Topic | Question | Answer
