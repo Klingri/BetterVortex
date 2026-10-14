@@ -1,6 +1,6 @@
 ## Current (notable) Features
 
-<p>The first 6 features on the table are fully made and contributed by <a href="https://github.com/Klingri">@Klingri</a>, the others by someone else. The most important features are listed below:</p>
+<p>All the features on the table are fully made and contributed by <a href="https://github.com/Klingri">@Klingri</a>, The most important features are listed below:</p>
 
 | Feature | Description | Contributor |
 | :--- | :--- | :--- |
@@ -10,10 +10,10 @@
 | **Hover Animations** | Instant satisfaction. |
 | **Custom BetterVortex Settings** | Customization. |
 | **Custom Friends button on navbar** | Easy shortcut. |
-| **Custom Theme Manager** | Enables theme customization. | [@Myroshlaug](https://github.com/myroshlaug) |
+| **Integrated Settings Theme Manager** | Theme Manager in the settings. |
 
 <div align="center">
-<p>Full Roadmap & list of features <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.md">here</a>, recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
+recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
 </div>
 
 ## Roadmap
@@ -23,22 +23,25 @@ Please note that this roadmap is subject to change. Features may be added, remov
 
 | Feature | Description | Priority |
 | :--- | :--- | :--- |
-| **More Settings** | More Settings for Customization. | Very High |
-| **Game Making** | Game Making for social clarity. | Very High |
-| **Emotes** | Animations you can play. | Medium |
-| **Tools** | Useful and functional tools. | High |
-| **Groups** | Communities for players. | High |
+| **More Settings** | More Settings for Customization. | 🔴 Very High |
+| **Game Making** | Game Making for social clarity. | 🔴 Very High |
+| **Tools** | Useful and functional tools. | 🟠 High |
+| **Groups** | Communities for players. | 🟠 High |
+| **Emotes** | Animations you can play. | 🟡 Medium |
 
 ## Q&A
 
 | Topic | Question | Answer
 | :--- | :--- | :--- |
-General | **How can I submit feedback or report a bug? and can I contribute or develop for BetterVortex?** | Feel free to **reach out** to me via *GitHub.* for submitting feedbacks or reporting a bug, however, I currently do **not accept** direct contributions. Instead, the only way to contribute is by giving *feedback* and *suggestions.*
-Security | **Is BetterVortex malware? and is BetterVortex Free & open-source?** | **No,** *BetterVortex* is not malware but feel free to not download and not use BetterVortex, and **Yes.** BetterVortex is a free & open-source browser *extension.*
-Updating | **When does BetterVortex update? and why doesn't BetterVortex do much?** | Typically *BetterVortex* Updates every **few days**, however BetterVortex may go **weeks** without updates for many reasons, updates are random but are sometimes scheduled beforehand. and the Vortex Platform is still very early and so I am waiting it out for the platform to stabilize a bit more so I can do much more.
-Compatibility | **Can I use an older version of BetterVortex? will you ever fix BetterVortex versions prior to version <2.5 not working? and will you ever port BetterVortex to FireFox?** | **Yes you can use theoretically use an older version of BetterVortex,** but older versions may fail if the Vortex website URL or its underlying elements have changed and If you mean the website URL, changed its domain from towerstats.vortex to playvortex.io, but as for the CSS literally breaking because the UI of vortex has changed or been renamed, **probably not any time soon,** but you can attempt it yourself. and **No.** *BetterVortex* will not be ported over to Firefox at least not right now. maybe in the far far future.
-Mission | **Whats the end goal for BetterVortex? and can I donate money to BetterVortex?** | *BetterVortex's* goal is to give Vortex user's more control, customization, and make the vortex platform a nicer place, and **No you can't donate money to BetterVortex.** Support me instead by giving me feedback on your experience with using BetterVortex.
-Other | **My question isn't listed here?** |  feel free to ask me any questions.
+**General** | How can I submit feedback or report a bug? | Feel free to reach out via **GitHub** to report bugs or share feedback.
+**General** | Can I contribute or develop for BetterVortex? | Direct code contributions are **not accepted** at this time. The best way to contribute is by sharing your feedback and suggestions.
+**Development** | When does BetterVortex update? | Updates usually roll out every **few days**, but there may be gaps of a **few weeks**. While updates are generally random, some are scheduled in advance.
+**Development** | Why doesn't BetterVortex do more right now? | The Vortex platform is still in its early stages. I am waiting for the platform to stabilize further before introducing major new features.
+**Compatibility** | Can I use an older version of BetterVortex?| **Yes, theoretically.** However, older versions may break if the Vortex website URL or its underlying elements change.
+**Compatibility** | Will BetterVortex ever be ported to Firefox? | **No plans for now.** A Firefox port will not happen anytime soon, though it remains a distant possibility for the far future.
+**Mission** | What is the end goal for BetterVortex? | The goal is to provide Vortex users with more control, better customization, and a generally improved platform experience.
+**Mission** | Can I donate money to BetterVortex? | **No, donations are not accepted.** You can best support the project by sharing your feedback and experience using BetterVortex.
+**Other** | My question isn't listed here? |  If you have a question that isn't covered, feel free to open an issue or reach out to ask.
 
 ## Accessibility Statement
 
@@ -82,15 +85,16 @@ If you love using BetterVortex, There are several ways you can show your support
 * **Share the Project:** Mention BetterVortex in group chats, comment sections, on social media, or tell your friends about it!
 * **Add a Backlink:** If you are using this in your own project, link back to this repository in your `README.md`. 
 
-Thank you for your support!
+*Thank you for your support!*
 
-### Known Issues & Stability (so far)
+## Known Issues & Stability (so far)
+<div align="center">
 
 <ul>
-    <li><strong>Performance:</strong> Experimental updates may cause performance instability and looses on less capable hardware.</li>
+    <li><strong>Performance:</strong> Experimental updates may cause performance instability and lag on less capable hardware.</li>
     <li><strong>UI Issues & UI Glitches:</strong> Some elements may display incorrectly.</li>
-    <li><strong>No native Auto-Updater:</strong> Manual updating, the same way you first downloaded BetterVortex.</li>
-    <li><strong>Compatibility:</strong> BetterVortex might not work with Firefox, other vortex extensions or older versions of BetterVortex.</li>
+    <li><strong>No Auto-Updater:</strong> You must update manually by downloading the latest release the same way you installed it originally.</li>
+    <li><strong>Compatibility:</strong> BetterVortex is not guaranteed to work with Firefox, legacy BetterVortex versions, or third-party Vortex extensions.</li>
     <li><strong>Themes:</strong> BetterVortex looks best in dark mode because it was built for it, and I cannot guarantee the look of light mode or other themes.</li>
   </ul>
 
@@ -99,5 +103,3 @@ Thank you for your support!
 ![GitHub repo size](https://img.shields.io/github/repo-size/Klingri/BetterVortex)
 
 *Need more help? Check out BetterVortex's full [.readme](https://github.com/Klingri/BetterVortex) or open an issue in the [Issue Tracker](https://github.com/Klingri/BetterVortex/issues/new).*
-
-#### Rename to misc.md

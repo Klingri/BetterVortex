@@ -1,12 +1,13 @@
 <div align="left">
 
-# BetterVortex - Pre-Alpha
-![alt text](assets/images/thelogo.png)
-###### Version 3.0 Pre-Alpha (05.08.2026).
+# BetterVortex — Pre-Alpha
+<img src="assets/images/thelogo.png" alt="BetterVortex Logo" width="256" />
 
-## Why BetterVortex (BTVortex) Exists
+`Version 3.0 Pre-Alpha (05.08.2026)`
 
-<p>When People joined the Vortex Platform on May 4, 2026, there wasn't really anything to do. The interface was basic and too bright, there was almost no functionality besides friending people, joining maps, browsing, and there was no native dark mode or custom control at the time, this is what led to the creation of <a href="https://klingri.github.io/BetterVortex/">BetterVortex</a> the very next day, people wanted dark mode badly because they don't like looking at bright lights for hour's.</p>
+## Why BetterVortex Exists
+
+<p>When people joined the Vortex Platform on May 4, 2026, the initial experience was highly limited. The interface was basic overly bright, there was almost no functionality besides friending people, and lacked essential features beyond simple browsing, map joining, and friend requests at this time. Crucially, it lacked a native dark mode and custom configuration tools.this is what led to the creation of <a href="https://klingri.github.io/BetterVortex/">BetterVortex</a> the very next day, people wanted dark mode badly because they don't like looking at bright lights for hours.</p>
 
 <strong>BetterVortex is what Vortex should have been:</strong>
 
@@ -17,15 +18,13 @@
     Plus everything users have been asking for but never got (<i>BetterVortex</i> doesn't have everything just yet.)</li>
   </ul>
 
-## Disclaimers (please read)
+## Disclaimers!!! (Please Read)
 
-<ul>
-    <li>
-    <i>BetterVortex</i> is <b>not</b> affiliated, associated, or endorsed by Vortex (playvortex.io). Vortex and its various marks and logos are trademarks of Vortex. To use <i>BetterVortex</i>, you must agree to the Vortex platform and BetterVortex Terms of Service.</li>
-    <li><i>BetterVortex</i> is <b>safe,</b> malware-free, and transparently open-source, with all script actions strictly limited to core functions like updates and secure integrations. <i>BetterVortex</i> is not obfuscated, I try to provide readable code whenever possible, and I cannot guarantee that every section is fully de-obfuscated.</li>
-    <li>
-    <i>BetterVortex</i> <b>isn't</b> trying to be the best vortex extension with the most features, just the most <i>user friendly. </i>As soon as a new version drops, support for the old version <strong>stops.</strong> Please reach out directly to me if you have any questions about <i>BetterVortex.</li>
-  </ul>
+* **Not Affiliated with Vortex:** *BetterVortex* is an independent project and is **not** affiliated, associated, authorized, or endorsed by Vortex (playvortex.io). Vortex and its logos are trademarks of their respective owners. To use this extension, you must comply with the official Vortex Terms of Service alongside the BetterVortex Terms.
+* **Safe & Transparent:** This extension is malware-free and fully open-source. The code is completely unobfuscated and kept as readable as possible so you can verify exactly what it does. Script actions are strictly limited to core functionalities, updates, and secure integrations.
+* **Project Scope & Support:** My goal isn't to build the most feature-heavy extension, but to provide the most *user-friendly* experience. Please note that **support is only provided for the latest version**; older versions are immediately deprecated when a new update drops.
+
+If you have any questions or need to get in touch, please reach out directly via GitHub
 
 <div align="center">
 
@@ -56,17 +55,10 @@
 ![GitHub Release](https://img.shields.io/github/v/release/Klingri/BetterVortex)</div>
 
 ## Forking
-<ul>
-  <li>
-    <strong>Fork the Repository</strong>
-    <ul>
-      <li>Click the Fork button.</li>
-      <li>Find it at the top-right of this page.</li>
-      <li>Select your GitHub account as the owner.</li>
-      <li>Click Create fork.</li>
-    </ul>
-  </li>
-</ul>
+
+* Click the **Fork** button at the top-right of the page.
+* Select your GitHub account as the owner.
+* Click **Create fork**.
 
 ## Current (notable) Features
 
@@ -92,10 +84,10 @@
 </div>
 
 <ul>
-    <li><strong>Performance:</strong> Experimental updates may cause performance instability and looses on less capable hardware.</li>
+    <li><strong>Performance:</strong> Experimental updates may cause performance instability and lag on less capable hardware.</li>
     <li><strong>UI Issues & UI Glitches:</strong> Some elements may display incorrectly.</li>
-    <li><strong>No native Auto-Updater:</strong> Manual updating, the same way you first downloaded BetterVortex.</li>
-    <li><strong>Compatibility:</strong> BetterVortex might not work with Firefox, other vortex extensions or older versions of BetterVortex.</li>
+    <li><strong>No Auto-Updater:</strong> You must update manually by downloading the latest release the same way you installed it originally.</li>
+    <li><strong>Compatibility:</strong> BetterVortex is not guaranteed to work with Firefox, legacy BetterVortex versions, or third-party Vortex extensions.</li>
     <li><strong>Themes:</strong> BetterVortex looks best in dark mode because it was built for it, and I cannot guarantee the look of light mode or other themes.</li>
   </ul>
 
@@ -111,11 +103,15 @@
 
 | Topic | Question | Answer
 | :--- | :--- | :--- |
-General | **How can I submit feedback or report a bug? and can I contribute or develop for BetterVortex? | Feel free to **reach out** to me via *GitHub.* for submitting feedbacks or reporting a bug, however, I currently do **not accept** direct contributions. Instead, the only way to contribute is by giving *feedback* and *suggestions.*
-Updating | **When does BetterVortex update? and why doesn't BetterVortex do much?** | Typically *BetterVortex* Updates every **few days**, however BetterVortex may go **weeks** without updates, updates are random but are sometimes scheduled beforehand. and the Vortex Platform is still very early and so I am waiting it out for the platform to stabilize a bit more so I can do much more.
-Compatibility | **Can I use an older version of BetterVortex? and will you ever port BetterVortex to FireFox?** | **Yes you can use theoretically use an older version of BetterVortex,** but older versions may fail if the Vortex website URL or its underlying elements have changed, and **No.** *BetterVortex* will not be ported over to Firefox at least not right now. maybe in the far far future.
-Mission | **Whats the end goal for BetterVortex? and can I donate money to BetterVortex?** | *BetterVortex's* goal is to give Vortex user's more control, customization, and make the vortex platform a nicer place, and **No you can't donate money to BetterVortex.** Support me instead by giving me feedback on your experience with using BetterVortex.
-Other | **My question isn't listed here?** |  feel free to ask me any questions.
+**General** | How can I submit feedback or report a bug? | Feel free to reach out via **GitHub** to report bugs or share feedback.
+**General** | Can I contribute or develop for BetterVortex? | Direct code contributions are **not accepted** at this time. The best way to contribute is by sharing your feedback and suggestions.
+**Development** | When does BetterVortex update? | Updates usually roll out every **few days**, but there may be gaps of a **few weeks**. While updates are generally random, some are scheduled in advance.
+**Development** | Why doesn't BetterVortex do more right now? | The Vortex platform is still in its early stages. I am waiting for the platform to stabilize further before introducing major new features.
+**Compatibility** | Can I use an older version of BetterVortex?| **Yes, theoretically.** However, older versions may break if the Vortex website URL or its underlying elements change.
+**Compatibility** | Will BetterVortex ever be ported to Firefox? | **No plans for now.** A Firefox port will not happen anytime soon, though it remains a distant possibility for the far future.
+**Mission** | What is the end goal for BetterVortex? | The goal is to provide Vortex users with more control, better customization, and a generally improved platform experience.
+**Mission** | Can I donate money to BetterVortex? | **No, donations are not accepted.** You can best support the project by sharing your feedback and experience using BetterVortex.
+**Other** | My question isn't listed here? |  If you have a question that isn't covered, feel free to open an issue or reach out to ask.
 
   
 ## License & Other
@@ -123,37 +119,27 @@ Other | **My question isn't listed here?** |  feel free to ask me any questions.
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/MIT)</div>
-
-<div align="center">
   <ul>
-    <p>Thank you for all the support! ♥️</p>
-</div>
-
-<div align="center">The Developer of BetterVortex:<br>
-  <a href="https://github.com/Klingri">@Klingri</a>
-  </div>
-
-  
-  <p><strong>Want to Learn More?</strong> Click the shortcuts on this <a href="https://github.com/Klingri/BetterVortex/tree/stable/.github">page.</a></p>
-
-  <div align="center">
+    <p>Thank you for all the support! ♥️ <br><br>The Developer of BetterVortex:<br>
+  <a href="https://github.com/Klingri">@Klingri</a><br><br><strong>Want to Learn More?</strong> Click the shortcuts on this <a href="https://github.com/Klingri/BetterVortex/tree/stable/.github">page.</a></p>
 
   ![GitHub contributors](https://img.shields.io/github/contributors/Klingri/BetterVortex)
 
-  [![Creator](https://img.shields.io/badge/Made_With_Love_♥️%20-@Klingri-purple.svg)](https://img.shields.io/github/v/release/Klingri/BetterVortex)</div>
+  [![Creator](https://img.shields.io/badge/Coded_Manually_For_Hours_By:%20-@Klingri-black.svg)](https://img.shields.io/github/v/release/Klingri/BetterVortex)</div>
 
 ## Fun Trivia
 
 <ul>
     <i>BetterVortex:</i>
-    <li>1. was the first Vortex platform extension. It sparked a wave of fan-made extensions.</li>
+    <li>1. was the very first Vortex platform extension. It sparked a wave of fan-made extensions.</li>
     <li>2. leads the Vortex platform as its very first browser extension with a built-in dark mode.</li>
-    <li>3. is older than 99% of the accounts of the Vortex platform except for the original 2120 players.</li>
+    <li>3. is older than 99% of all vortex accounts (surpassed only by the original 2,120 players).</li>
     <li>4. was the most popular Vortex extension of May 2026 alongside Vortex2plus2.</li>
     <li>5. added Dark mode on May 5, 2026, then Vortex added an official native dark mode 2.5 months later which is around a 80 day difference, so BetterVortex had dark mode before vortex had it.</li>
   </ul>
+
+<div align="center">other stuff :)</div>
+<br>
 
   <div align="center">
 
