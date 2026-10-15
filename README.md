@@ -64,8 +64,8 @@ If you have any questions or need to get in touch, please reach out directly via
 
 <p>All the features on the table are fully made and contributed by <a href="https://github.com/Klingri">@Klingri</a>, The most important features are listed below:</p>
 
-| Feature | Description | Contributor |
-| :--- | :--- | :--- |
+| Feature | Description |
+| :--- | :--- |
 | **New Buttons** | New buttons. |
 | **Improved Accesibility** | nice. |
 | **Animations & Effects** | Beautiful Animations & effects. |
