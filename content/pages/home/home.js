@@ -1,5 +1,3 @@
-// Empty as of Version 2.5 Pre Alpha 05.07.2026
-
 // 1. Select the original element
 const originalElemente = document.querySelector('.profile-info-row');
 

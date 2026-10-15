@@ -1,5 +1,3 @@
-// Version 2.9 Pre Alpha 29.07.2026
-
 const navBar = document.querySelector('.navbar');
 
 function createNavButton(text, url) {
