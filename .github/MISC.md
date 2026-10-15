@@ -102,4 +102,4 @@ If you love using BetterVortex, There are several ways you can show your support
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Klingri/BetterVortex)
 
-*Need more help? Check out BetterVortex's full [.readme](https://github.com/Klingri/BetterVortex) or open an issue in the [Issue Tracker](https://github.com/Klingri/BetterVortex/issues/new).*
+*Need more help? Check out BetterVortex's full [.readme](https://github.com/Klingri/BetterVortex/blob/stable/README.md) or open an issue in the [Issue Tracker](https://github.com/Klingri/BetterVortex/issues/new).*

@@ -3,11 +3,11 @@
 # BetterVortex — Pre-Alpha
 <img src="assets/images/thelogo.png" alt="BetterVortex Logo" width="256" />
 
-`Version 3.0 Pre-Alpha (05.08.2026)`
+`Version 3.1 Pre-Alpha (15 Oct 2026)`
 
 ## Why BetterVortex Exists
 
-<p>When people joined the Vortex Platform on May 4, 2026, the initial experience was highly limited. The interface was basic overly bright, there was almost no functionality besides friending people, and lacked essential features beyond simple browsing, map joining, and friend requests at this time. Crucially, it lacked a native dark mode and custom configuration tools.this is what led to the creation of <a href="https://klingri.github.io/BetterVortex/">BetterVortex</a> the very next day, people wanted dark mode badly because they don't like looking at bright lights for hours.</p>
+<p>When people joined the Vortex Platform on May 4, 2026, the initial experience was highly limited. The interface was basic overly bright, there was almost no functionality besides friending people, and lacked essential features beyond simple browsing, map joining, and friend requests at this time. Crucially, it lacked a native dark mode and custom configuration tools. this is what led to the creation of <a href="https://klingri.github.io/BetterVortex/">BetterVortex</a> the very next day, people wanted dark mode badly because they don't like looking at bright lights for hours.</p>
 
 <strong>BetterVortex is what Vortex should have been:</strong>
 
@@ -32,7 +32,7 @@ If you have any questions or need to get in touch, please reach out directly via
 
 ## Installation
 
-<a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.MD">full Installation guide.</a>
+<a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.md">full Installation guide.</a>
 
 ### Step-by-Step:
 1. **Download:** Go to the [Releases](https://github.com/Klingri/BetterVortex/releases) page and download the latest `Source code (zip)`.
@@ -75,7 +75,7 @@ If you have any questions or need to get in touch, please reach out directly via
 | **Integrated Settings Theme Manager** | Theme Manager in the settings. |
 
 <div align="center">
-<p>Full Roadmap & list of features <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.md">here</a>, recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
+<p>Full Roadmap & list of features <a href="https://github.com/Klingri/BetterVortex/blob/stable/.github/MISC.md">here</a>; recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
 </div>
 
 ## Known Issues & Stability (so far)
@@ -121,7 +121,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <div align="center">
   <ul>
     <p>Thank you for all the support! ♥️ <br><br>The Developer of BetterVortex:<br>
-  <a href="https://github.com/Klingri">@Klingri</a><br><br><strong>Want to Learn More?</strong> Click the shortcuts on this <a href="https://github.com/Klingri/BetterVortex/tree/stable/.github">page.</a></p>
 
   ![GitHub contributors](https://img.shields.io/github/contributors/Klingri/BetterVortex)
 

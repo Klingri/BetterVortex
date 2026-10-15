@@ -41,7 +41,7 @@ This update added nothing new, just made a new file structure and renamed the ex
 * Nothing
 
 # Version 3.1 — 15 Oct 2026
-### *The JavaScript Update – Part 7?*
+### *The JavaScript Update – Part 7*
 Description
 
 **Changelogs:**
