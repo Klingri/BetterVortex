@@ -42,7 +42,7 @@ This update added nothing new, just made a new file structure and renamed the ex
 
 # Version 3.1 — 15 Oct 2026
 ### *The JavaScript Update – Part 7*
-Description
+This update mainly massively improved the .MD Files and New Icons for the Extension.
 
 **Changelogs:**
 
@@ -50,10 +50,11 @@ Description
 * Nothing
 
 #### Changed & Refactored
-* Nothing
+* New Icons
+* Updated .MD Files
 
 #### Removed
-* Nothing
+* A bit of code comments
 
 # Version 3.2 — 17 Oct 2026
 Description
