@@ -3,7 +3,7 @@
 # BetterVortex — Pre-Alpha
 <img src="assets/images/thelogo.png" alt="BetterVortex Logo" width="256" />
 
-`Version 3.1 Pre-Alpha (15 Oct 2026)`
+`Version 3.2 Pre-Alpha (17 Oct 2026)`
 
 ## Why BetterVortex Exists
 

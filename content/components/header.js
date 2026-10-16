@@ -25,7 +25,7 @@ if (navBar) {
   // 4. Append version text to the navbar
   const navText = document.createElement('h6');
   navText.className = 'nav-text';
-  navText.textContent = 'BetterVortex v3.0';
+  navText.textContent = 'BetterVortex v3.2';
   navText.style.color = '#FFF';
 
   fragment.appendChild(navText);

@@ -5,16 +5,15 @@
 | :--- | :--- | :--- | :--- |
 | 05 Aug 2026 | `v3.0` | Pre-Alpha | Renamed project to **BetterVortex**. |
 | 15 Oct 2026 | `v3.1` | Pre-Alpha | Changed **.MD** Files. |
+| 17 Oct 2026 | `v3.2` | Pre-Alpha | Massively Changed **.CSS and .JS** Files. |
 
 ## Release Roadmap
 Future versions and target milestones as development progresses.
 
 | Target Date | Version | Stage | Status |
 | :--- | :--- | :--- | :--- |
-| 15 Oct 2026 | `v3.1` | Pre-Alpha | ⏳ Planned |
-| 17 Oct 2026 | `v3.2` | Pre-Alpha | ⏳ Planned |
-| 22 Oct 2026 | `v3.3` | Pre-Alpha | ⏳ Planned |
-| 25 Oct 2026 | `v3.4` | Pre-Alpha | ⏳ Planned |
+| 19 Oct 2026 | `v3.3` | Pre-Alpha | ⏳ Planned |
+| 24 Oct 2026 | `v3.4` | Pre-Alpha | ⏳ Planned |
 | 01 Nov 2026 | `v3.5` | Early Alpha | ⏳ Planned |
 | 01 Dec 2026 | `v3.6` | Early Alpha | ⏳ Planned |
 | 27 Dec 2026 | `v3.7` | Early Alpha | ⏳ Planned |
@@ -43,7 +42,7 @@ This update added nothing new, just made a new file structure and renamed the ex
 
 # Version 3.1 — 15 Oct 2026
 ### *The JavaScript Update – Part 7*
-This update mainly massively improved the .MD Files and New Icons for the Extension.
+This update mainly massively improved the `.MD` Files and New Icons for the Extension.
 
 **Changelogs:**
 
@@ -52,12 +51,27 @@ This update mainly massively improved the .MD Files and New Icons for the Extens
 
 #### Changed & Refactored
 * New Icons
-* Updated .MD Files
+* Updated `.MD` Files
 
 #### Removed
 * A bit of code comments
 
 # Version 3.2 — 17 Oct 2026
+### *The JavaScript Update – Part 8*
+This update massively improved the `.CSS` and `.JS` Files.
+
+**Changelogs:**
+
+#### Added
+* Nothing
+
+#### Changed & Refactored
+* Most `.CSS` And `.JS Files`
+
+#### Removed
+* Nothing
+
+# Version 3.3 — 19 Oct 2026
 Description
 
 **Changelogs:**
@@ -71,21 +85,7 @@ Description
 #### Removed
 * Nothing
 
-# Version 3.3 — 22 Oct 2026
-Description
-
-**Changelogs:**
-
-#### Added
-* Nothing
-
-#### Changed & Refactored
-* Nothing
-
-#### Removed
-* Nothing
-
-# Version 3.4 — 25 Oct 2026
+# Version 3.4 — 24 Oct 2026
 #### Scheduled Discontinuation of Pre-Alpha Development.
 Description
 
