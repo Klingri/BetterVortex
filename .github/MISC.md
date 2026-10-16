@@ -67,7 +67,7 @@ To translate the Vortex Platform into different languages, I recommend you use t
 
 ## Need Help?
 If you have questions about using BetterVortex, run into issues, or need to clarify a concept, please start by doing the following:
-1. **Check the Documentation:** Review the `README.md` and BetterVortex's [Documentation](insert-docs-link-here) to see if your question is already answered.
+1. **Check the Documentation:** Review the `README.md` to see if your question is already answered.
 2. **Search Existing Issues:** Check the BetterVortex [GitHub Issues](https://github.com/Klingri/BetterVortex/issues) page to see if someone else has already asked or solved your problem.
 3. **Talk to a Duck:** Try to define exactly what you are trying to do, what problem you are encountering, and what steps you've taken so far. 
 

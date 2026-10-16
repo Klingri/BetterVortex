@@ -1,33 +1,43 @@
-// 1. Select the original element
-const originalElemente = document.querySelector('.profile-info-row');
+// 1. Clone and append profile info row
+const originalElement = document.querySelector('.profile-info-row');
 
-if (originalElemente) {
-  // 2. Clone it with all its children
-  const clonedElement = originalElemente.cloneNode(true);
-
-  // (Optional) Remove the ID attribute to prevent duplicate IDs on the page
+if (originalElement) {
+  const clonedElement = originalElement.cloneNode(true);
   clonedElement.removeAttribute('id');
-
-  // 3. Insert the clone into the DOM (e.g., appending it to the body)
   document.body.appendChild(clonedElement);
 }
 
-const alertButton = document.querySelector('.notice')
-const deleteAlrtButton = document.createElement('button');
+// 2. Add dismiss button to the alert
+const alertBox = document.querySelector('.notice');
 
-deleteAlrtButton.className = 'vpro-nav-btn';
-deleteAlrtButton.innerText = 'Dismiss Alert';
-alertButton.appendChild(deleteAlrtButton);
-deleteAlrtButton.addEventListener('click', function () {
-  alertButton.remove();
-});
+if (alertBox) {
+  const deleteAlertBtn = document.createElement('button');
+  deleteAlertBtn.className = 'vpro-nav-btn';
+  deleteAlertBtn.textContent = 'Dismiss Alert'; // textContent is faster than innerText
 
-const avatarTest = document.querySelector('.avatar-render-box')
-avatarTest.addEventListener('click', function () {
-  window.location.href = "https://playvortex.io/catalog";
-});
+  deleteAlertBtn.addEventListener('click', () => {
+    alertBox.remove();
+  }, { once: true }); // Automatically removes listener after click
 
-const friendsShortcutbtn = document.querySelector('#friends-title')
-friendsShortcutbtn.addEventListener('click', function () {
-  window.location.href = "https://playvortex.io/social?user=&tab=friends";
-});
+  alertBox.appendChild(deleteAlertBtn);
+}
+
+// 3. Avatar click navigation with safety check
+const avatarBox = document.querySelector('.avatar-render-box');
+
+if (avatarBox) {
+  avatarBox.style.cursor = 'pointer'; // Visual cue that it's clickable
+  avatarBox.addEventListener('click', () => {
+    window.location.href = 'https://playvortex.io/catalog';
+  });
+}
+
+// 4. Friends shortcut click navigation with safety check
+const friendsTitle = document.querySelector('#friends-title');
+
+if (friendsTitle) {
+  friendsTitle.style.cursor = 'pointer'; // Visual cue that it's clickable
+  friendsTitle.addEventListener('click', () => {
+    window.location.href = 'https://playvortex.io/social?user=&tab=friends';
+  });
+}

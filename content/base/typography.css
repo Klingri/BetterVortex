@@ -1,12 +1,15 @@
 :root {
-    --default-font: Verdana, Geneva, Tahoma, sans-serif;
+  /* Modern system font stack with fallback to your preferred Verdana stack */
+  --default-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Verdana, Geneva, Tahoma, sans-serif;
 }
 
-* {
-    font-family: var(--default-font)
+html {
+  font-family: var(--default-font);
 }
 
-/* Color for Selection */
-body::selection {
-    background-color: #B22222;
+/* Global text selection color */
+::selection {
+  background-color: #B22222;
+  color: #FFFFFF;
+  /* Ensures high contrast for selected text */
 }

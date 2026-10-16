@@ -1,6 +1,9 @@
-/*makes game text yellow*/
+:root {
+  --game-yellow: #e9d569;
+}
+
 .game-card-title,
 .game-detail-title,
 .game-description-label {
-    color: #e9d569 !important;
+  color: var(--game-yellow);
 }

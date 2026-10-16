@@ -3,7 +3,8 @@
 
 | Date | Version | Stage | Key Changes |
 | :--- | :--- | :--- | :--- |
-| 05 Oct 2026 | `v3.0` | Pre-Alpha | Renamed project to **BetterVortex**. |
+| 05 Aug 2026 | `v3.0` | Pre-Alpha | Renamed project to **BetterVortex**. |
+| 15 Oct 2026 | `v3.1` | Pre-Alpha | Changed **.MD** Files. |
 
 ## Release Roadmap
 Future versions and target milestones as development progresses.

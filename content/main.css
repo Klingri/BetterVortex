@@ -2,7 +2,7 @@
 /*Heres da plan, i move prety much all of dis code into their own css files for organization and not losing mah mind*/
 
 :root {
-    /* Default theme, for the themes manager*/
+    /* Default theme, for the themes manager */
     --bg-main: #121212;
     --text-main: #F8F9FA;
     --accent: #27ae60;
@@ -19,23 +19,19 @@ body,
 }
 
 .site-footer {
-    border-top-color: var(--card-bg) !important;
-    border-top: var(--card-bg) !important;
+    border-top: 1px solid var(--card-bg);
+    background: var(--bg-main);
 }
 
 .tab-bar,
 .dl-hero,
 .dl-card {
-    border-bottom-color: var(--card-bg) !important;
-    border-bottom: var(--card-bg) !important;
-    border: var(--card-bg) !important;
-    border-color: var(--card-bg) !important;
+    border: 1px solid var(--card-bg);
 }
 
 .game-description-box,
-.server-card,
-.site-footer {
-    background: var(--bg-maing) !important;
+.server-card {
+    background: var(--bg-main);
 }
 
 /* Container overhaul */
@@ -43,33 +39,30 @@ body,
     background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(10px);
     border-radius: 20px;
-    padding: 30px !important;
-    border: 1px solid #0000001a;
-    /* Modern layered shadow */
+    padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow:
         0 4px 6px -1px rgba(0, 0, 0, 0.1),
         0 2px 4px -1px rgba(0, 0, 0, 0.06);
-
     margin-top: 20px;
 }
 
 .vpro-nav-btn {
-    border-radius: 8px !important;
-    padding: 8px 15px !important;
+    border-radius: 8px;
+    padding: 8px 15px;
     transition: all 0.3s ease;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 12px;
     margin-left: 8px;
-    background-color: var(--input-bg) !important;
-    border: 0px none !important;
-    border-color: none !important;
-    color: var(--text-main) !important;
+    background-color: var(--input-bg);
+    border: none;
+    color: var(--text-main);
 }
 
 .load-notice {
-    color: #444444 !important;
-    background-color: var(--bg-main) !important;
+    color: #444444;
+    background-color: var(--bg-main);
 }
 
 .catalog-section-divider,
@@ -77,9 +70,8 @@ body,
 .dl-notice,
 .dl-code,
 .market-card {
-    background-color: var(--bg-main) !important;
-    background: var(--input-bg) !important;
-    border: var(--card-bg) !important;
+    background-color: var(--input-bg);
+    border: 1px solid var(--card-bg);
 }
 
 .games-grid,
@@ -115,10 +107,10 @@ label,
 input,
 .user-card-name,
 .profile-last-seen {
-    color: var(--text-main) !important;
+    color: var(--text-main);
 }
 
-/* Different Cursor State */
+/* Cursor State */
 /* 1. Base default for everything */
 body,
 body * {
@@ -140,11 +132,13 @@ textarea,
     cursor: text;
 }
 
-/* hover underline */
-:where(a, button, h1, h2, h3, h4, h5, h6, p, b, i, strong, h6, span):hover {
+/* Hover underline (cleaned up to target links and buttons only) */
+a:hover,
+button:hover,
+.is-clickable:hover {
     text-decoration: underline;
     text-decoration-color: currentColor;
-    text-underline-offset: 0.4em;/
+    text-underline-offset: 0.4em;
 }
 
 /*i have to make a groups subfolder because of the groups*/

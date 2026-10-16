@@ -1,4 +1,3 @@
 .market-grid {
-    justify-content: center !important;
-    justify-items: center !important;
+  place-items: center;
 }

@@ -85,6 +85,7 @@ If you have any questions or need to get in touch, please reach out directly via
 
 <ul>
     <li><strong>Performance:</strong> Experimental updates may cause performance instability and lag on less capable hardware.</li>
+    <li><strong>Vortex Updates:</strong> Vortex updates may cause extension features to break.</li>
     <li><strong>UI Issues & UI Glitches:</strong> Some elements may display incorrectly.</li>
     <li><strong>No Auto-Updater:</strong> You must update manually by downloading the latest release the same way you installed it originally.</li>
     <li><strong>Compatibility:</strong> BetterVortex is not guaranteed to work with Firefox, legacy BetterVortex versions, or third-party Vortex extensions.</li>
@@ -147,7 +148,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ![GitHub top language](https://img.shields.io/github/languages/top/Klingri/BetterVortex)
 ![GitHub branch status](https://img.shields.io/github/checks-status/Klingri/BetterVortex/stable)
 ![GitHub branch count](https://img.shields.io/github/branches/Klingri/BetterVortex)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/Klingri/BetterVortex/latest)
-[![Test](https://img.shields.io/badge/Test-gray.svg)](https://html.spec.whatwg.org/)</div>
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/Klingri/BetterVortex/latest)</div>
 
 ---
