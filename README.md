@@ -5,6 +5,9 @@
 
 `Version 3.2 Pre-Alpha (17 Oct 2026)`
 
+## Discontinuation
+<p>When I started BetterVortex exactly half a year ago today, I wanted two things. to make vortex better and to help people within the community. My work here is done and I can no longer continue to work on this extension. Thank you to everyone, the BetterVortex extension will officially be Discontinued on 5 November 2026, the exact 6 month anniversary (half a year) since BetterVortex was created. Thank you to everyone in the Vortex Community, as always, cheers. — Klingri</p>
+
 ## Why BetterVortex Exists
 
 <p>When people joined the Vortex Platform on May 4, 2026, the initial experience was highly limited. The interface was basic overly bright, there was almost no functionality besides friending people, and lacked essential features beyond simple browsing, map joining, and friend requests at this time. Crucially, it lacked a native dark mode and custom configuration tools. this is what led to the creation of <a href="https://klingri.github.io/BetterVortex/">BetterVortex</a> the very next day, people wanted dark mode badly because they don't like looking at bright lights for hours.</p>
