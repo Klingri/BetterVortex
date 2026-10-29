@@ -1,15 +1,1 @@
-:root {
-  /* Modern system font stack with fallback to your preferred Verdana stack */
-  --default-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Verdana, Geneva, Tahoma, sans-serif;
-}
-
-html {
-  font-family: var(--default-font);
-}
-
-/* Global text selection color */
-::selection {
-  background-color: #B22222;
-  color: #FFFFFF;
-  /* Ensures high contrast for selected text */
-}
+/*Styles Wiped on October 18, 2026*/
