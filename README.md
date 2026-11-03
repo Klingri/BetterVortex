@@ -3,7 +3,7 @@
 # BetterVortex — Pre-Alpha
 <img src="assets/images/thelogo.png" alt="BetterVortex Logo" width="256" />
 
-`Version 3.2 Pre-Alpha (17 Oct 2026)`
+`Version 3.3 Pre-Alpha (5 Nov 2026)`
 
 ## Discontinuation
 <p>When I started BetterVortex exactly half a year ago today, I wanted two things. to make vortex better and to help people within the community. My work here is done and I can no longer continue to work on this extension. Thank you to everyone, the BetterVortex extension will officially be Discontinued on 5 November 2026, the exact 6 month anniversary (half a year) since BetterVortex was created. Thank you to everyone in the Vortex Community, as always, cheers. — Klingri</p>
@@ -26,6 +26,7 @@
 * **Not Affiliated with Vortex:** *BetterVortex* is an independent project and is **not** affiliated, associated, authorized, or endorsed by Vortex (playvortex.io). Vortex and its logos are trademarks of their respective owners. To use this extension, you must comply with the official Vortex Terms of Service alongside the BetterVortex Terms.
 * **Safe & Transparent:** This extension is malware-free and fully open-source. The code is completely unobfuscated and kept as readable as possible so you can verify exactly what it does. Script actions are strictly limited to core functionalities, updates, and secure integrations.
 * **Project Scope & Support:** My goal isn't to build the most feature-heavy extension, but to provide the most *user-friendly* experience. Please note that **support is only provided for the latest version**; older versions are immediately deprecated when a new update drops.
+* **Discontinuation:** Development of BetterVortex has ceased completely, no new updates will release.
 
 If you have any questions or need to get in touch, please reach out directly via GitHub
 
