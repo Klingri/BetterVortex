@@ -23,7 +23,7 @@ Future versions and target milestones as development progresses.
 
 > ℹ️ *Note: This log only tracks recent major changes and immediate upcoming milestones.*
 
-# Version 3.3 — 19 Oct 2026
+# Version 3.3 — 5 Nov 2026
 ### *The Final Update*
 This update is the final update of BetterVortex.
 
