@@ -1,107 +1,79 @@
-## Current (notable) Features
+# BetterVortex — Project Information & Guides
 
-<p>All the features on the table are fully made and contributed by <a href="https://github.com/Klingri">@Klingri</a>, The most important features are listed below:</p>
+All features listed below are developed and maintained by [@Klingri](https://github.com/Klingri).
 
-| Feature | Description
+---
+
+## Current Notable Features
+
+| Feature | Description |
 | :--- | :--- |
-| **New Buttons** | New buttons. |
-| **Improved Accesibility** | nice. |
-| **Animations & Effects** | Beautiful Animations & effects. |
-| **Hover Animations** | Instant satisfaction. |
-| **Custom BetterVortex Settings** | Customization. |
-| **Custom Friends button on navbar** | Easy shortcut. |
-| **Integrated Settings Theme Manager** | Theme Manager in the settings. |
+| **Custom Navbar Shortcuts** | Quick-access buttons added directly to the header navigation, including a dedicated Friends shortcut. |
+| **Accessibility Tweaks** | Enhanced UI contrast and visual adjustments for improved readability across the platform. |
+| **Animations & FX** | Smooth hover states, transition effects, and interactive UI feedback. |
+| **BetterVortex Settings** | Custom configuration panel to manage extension preferences. |
+| **Integrated Theme Manager** | Built-in theme selector located directly within the settings menu. |
 
-<div align="center">
-recent version history list <a href="https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md">here.</a></p>
-</div>
+> View full release history in the [CHANGELOG](https://github.com/Klingri/BetterVortex/blob/stable/CHANGELOG.md).
 
-## Roadmap
+---
 
-Please note that this roadmap is subject to change. Features may be added, removed, or modified at any time, as this list is not comprehensive and represents a flexible plan rather than a final commitment this applies both to the roadmap and current features.
-- The most important features are listed below:
+## Archived Project Roadmap
+
+*Note: As the project is discontinued, this list reflects planned features prior to deprecation.*
 
 | Feature | Description | Priority |
 | :--- | :--- | :--- |
-| **More Settings** | More Settings for Customization. | 🔴 Very High |
-| **Game Making** | Game Making for social clarity. | 🔴 Very High |
-| **Tools** | Useful and functional tools. | 🟠 High |
-| **Groups** | Communities for players. | 🟠 High |
-| **Emotes** | Animations you can play. | 🟡 Medium |
+| **Expanded Settings** | Additional user toggles for deeper interface customization. | 🔴 Very High |
+| **Creation Tools** | Game-making utility integration for enhanced social clarity. | 🔴 Very High |
+| **Platform Tools** | Functional utility suite for active players. | 🟠 High |
+| **Group System** | Community spaces and custom player groups. | 🟠 High |
+| **Custom Emotes** | Playable player animations. | 🟡 Medium |
 
-## Q&A
+---
 
-| Topic | Question | Answer
+## Known Issues & Limitations
+
+- **Performance:** Experimental features may cause minor frame drops or lag on low-end hardware.
+- **Upstream Breakage:** Changes to the official Vortex site layout may temporarily affect extension selectors.
+- **Manual Updates:** No auto-updater; new builds must be loaded manually via the Releases page.
+- **Theme Focus:** Interface components are built specifically for Dark Mode; Light Mode compatibility is unoptimized.
+- **Browser Scope:** Optimized primarily for Chromium browsers; Firefox or third-party extension compatibility is not guaranteed.
+
+---
+
+## Frequently Asked Questions (Q&A)
+
+| Category | Question | Answer |
 | :--- | :--- | :--- |
-**General** | How can I submit feedback or report a bug? | Feel free to reach out via **GitHub** to report bugs or share feedback.
-**General** | Can I contribute or develop for BetterVortex? | Direct code contributions are **not accepted** at this time. The best way to contribute is by sharing your feedback and suggestions.
-**Development** | When does BetterVortex update? | Updates usually roll out every **few days**, but there may be gaps of a **few weeks**. While updates are generally random, some are scheduled in advance.
-**Development** | Why doesn't BetterVortex do more right now? | The Vortex platform is still in its early stages. I am waiting for the platform to stabilize further before introducing major new features.
-**Compatibility** | Can I use an older version of BetterVortex?| **Yes, theoretically.** However, older versions may break if the Vortex website URL or its underlying elements change.
-**Compatibility** | Will BetterVortex ever be ported to Firefox? | **No plans for now.** A Firefox port will not happen anytime soon, though it remains a distant possibility for the far future.
-**Mission** | What is the end goal for BetterVortex? | The goal is to provide Vortex users with more control, better customization, and a generally improved platform experience.
-**Mission** | Can I donate money to BetterVortex? | **No, donations are not accepted.** You can best support the project by sharing your feedback and experience using BetterVortex.
-**Other** | My question isn't listed here? |  If you have a question that isn't covered, feel free to open an issue or reach out to ask.
+| **General** | *How do I report bugs?* | Submit feedback or bug details via [GitHub Issues](https://github.com/Klingri/BetterVortex/issues). |
+| **Contributions** | *Can I contribute code?* | Direct PRs are not accepted, but feedback and feature ideas are welcome. |
+| **Updates** | *How often were updates released?* | Releases rolled out every few days to weeks depending on development focus. |
+| **Compatibility** | *Can I run older versions?* | Yes, but older builds may break if Vortex changes its core site code. |
+| **Firefox** | *Will there be a Firefox port?* | There are no plans to release or maintain an official Firefox build. |
+| **Support** | *Can I donate to the project?* | Direct monetary donations are not accepted. Sharing the project is the best support. |
+
+---
 
 ## Accessibility Statement
 
-I am committed to ensuring my project is accessible, inclusive, and usable by everyone, regardless of technology or ability. I strive to follow the [Web Content Accessibility Guidelines (WCAG) 2.2](https://w3.org) standards.
+BetterVortex strives to follow [WCAG 2.2](https://w3.org) standards to remain usable by everyone:
+- **Keyboard Control:** Full keyboard accessibility with visible focus indicators.
+- **Assistive Tech:** Semantic HTML tags and ARIA labels for screen reader context.
+- **Visual Contrast:** High-contrast text elements (4.5:1 ratio minimum) for optimal legibility.
 
-## Key Features & Conformance
-My project actively wants to add the following accessibility practices:
-- **Keyboard Navigation:** All interactive elements are fully operable using a keyboard, with clear, visible focus states.
-- **Screen Reader Support:** Semantic HTML and proper ARIA attributes are used to provide meaningful context to assistive technologies.
-- **Visual Contrast:** Interface colors meet the minimum contrast ratios (e.g., 4.5:1 for normal text) to accommodate visual impairments.
-- **Descriptive Media:** Images include descriptive alternative (ALT) text, and videos include captions or transcripts where applicable.
+If you encounter an accessibility barrier, please open a GitHub Issue with the `a11y` label.
 
-## Reporting Barriers & Feedback
-If you encounter any accessibility barriers, missing alt text, or keyboard traps, please let me know.
-Please open an issue in our repository and apply the `accessibility` or `a11y` label. To help you resolve the issue quickly, please include:
-1. What you were trying to do and what went wrong.
-2. The exact page or URL where the barrier occurred.
-3. Your device, operating system, and assistive technology (e.g., screen reader version).
+---
 
-## Localization
+## Help, Bug Reports & Community
 
-To translate the Vortex Platform into different languages, I recommend you use the 'translate' feature built-in the Microsoft Edge or Chrome Web Browser.
+Before submitting a report, check the [README](README.md) and search existing [GitHub Issues](https://github.com/Klingri/BetterVortex/issues).
 
-## Need Help?
-If you have questions about using BetterVortex, run into issues, or need to clarify a concept, please start by doing the following:
-1. **Check the Documentation:** Review the `README.md` to see if your question is already answered.
-2. **Search Existing Issues:** Check the BetterVortex [GitHub Issues](https://github.com/Klingri/BetterVortex/issues) page to see if someone else has already asked or solved your problem.
-3. **Talk to a Duck:** Try to define exactly what you are trying to do, what problem you are encountering, and what steps you've taken so far. 
+- **Report a Bug:** Open an issue with reproduction steps, screenshots, and system details.
+- **Localization:** Use your browser’s built-in translation features (Chrome/Edge) to translate website content.
+- **Show Support:** Star the repository on GitHub or share the project with friends!
 
-## Reporting Bugs
-If you have found a bug in BetterVortex, please help us fix it quickly by [opening a Bug Report](https://github.com/Klingri/BetterVortex/issues). 
-* Please provide sample code, screenshots, or error logs if possible.
-* Clearly outline the steps required to reproduce the issue.
+---
 
-## Suggesting Enhancements
-If you have an idea or feature request, please [submit a Feature Request](https://github.com/Klingri/BetterVortex/issues) and tell me how this enhancement would benefit BetterVortex.
-
-## How You Can Support the Project
-If you love using BetterVortex, There are several ways you can show your support and help the BetterVortex community grow:
-* **Star the Repository:** Click the ⭐ "Star" button at the top of the BetterVortex repository page.
-* **Share the Project:** Mention BetterVortex in group chats, comment sections, on social media, or tell your friends about it!
-* **Add a Backlink:** If you are using this in your own project, link back to this repository in your `README.md`. 
-
-*Thank you for your support!*
-
-## Known Issues & Stability (so far)
-<div align="center">
-
-<ul>
-    <li><strong>Performance:</strong> Experimental updates may cause performance instability and lag on less capable hardware.</li>
-    <li><strong>UI Issues & UI Glitches:</strong> Some elements may display incorrectly.</li>
-    <li><strong>No Auto-Updater:</strong> You must update manually by downloading the latest release the same way you installed it originally.</li>
-    <li><strong>Compatibility:</strong> BetterVortex is not guaranteed to work with Firefox, legacy BetterVortex versions, or third-party Vortex extensions.</li>
-    <li><strong>Themes:</strong> BetterVortex looks best in dark mode because it was built for it, and I cannot guarantee the look of light mode or other themes.</li>
-  </ul>
-
-<p><i>Submit bugs via <a href="https://github.com/Klingri/BetterVortex/issues">GitHub Issues</a></i></p>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Klingri/BetterVortex)
-
-*Need more help? Check out BetterVortex's full [.readme](https://github.com/Klingri/BetterVortex/blob/stable/README.md) or open an issue in the [Issue Tracker](https://github.com/Klingri/BetterVortex/issues/new).*
-
-#### I need to shortern this .md file
+*Need more details? Check out the main [README.md](README.md) file.*
